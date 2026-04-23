@@ -128,7 +128,7 @@ class Joe:
 
 <div align="center">
     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-m-370083376/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-flaming-970111386)
     
 [![Email](https://img.shields.io/badge/EMAIL-joeflaming%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeflaming777@gmail.com)
 
