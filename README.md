@@ -1,147 +1,297 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:4ecdc4,100:0f1117&height=220&section=header&text=joe&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20IoT%20Builder%20%7C%20Web%20Creator&descAlignY=60&descSize=20&animation=fadeIn" />
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:14B8A6,100:020617&height=230&section=header&text=Joe%20Flaming&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Hackathon%20Creator&descAlignY=60&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Hey!+I'm+joe+%F0%9F%91%8B;IoT+Builder+%7C+Smart+Street+Light+%F0%9F%92%A1;ASCII+Art+from+Live+Camera+%F0%9F%8E%A5;Finance+Web+Apps+%F0%9F%92%B0;Ship+it.+Improve+it.+Repeat.+%F0%9F%94%A5)](https://git.io/typing-svg)
+# 👋 Hey, I'm Joe Flaming
+
+### 🚀 Building AI tools, browser-native apps, and modern web experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=900&color=14B8A6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+FieldSense+🌱;Creating+Brack+%7C+Personal+GitHub+Clone;OmniRoute+AI+Navigation+Platform;Ship+it.+Improve+it.+Repeat."/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joeflaming777-lgtm)
-[![Profile Views](https://komarev.com/ghpvc/?username=joeflaming777-lgtm&style=for-the-badge&color=4ecdc4&label=PROFILE+VIEWS)](https://github.com/joeflaming777-lgtm)
+<a href="https://github.com/joeflaming777-lgtm">
+<img src="https://img.shields.io/github/followers/joeflaming777-lgtm?style=for-the-badge&logo=github&color=14B8A6&labelColor=0F172A"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=joeflaming777-lgtm&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 💫 About Me
 
 ```python
-class Joe:
+class JoeFlaming:
 
-    name       = "joe"
-    handle     = "joeflaming777-lgtm"
-    focus      = "🎯 Focusing"
+    name = "Joe Flaming"
+    username = "joeflaming777-lgtm"
 
-    stack      = ["HTML", "CSS", "JavaScript", "IoT"]
-    projects   = ["Finance App", "Smart Street Light", "ASCII Art Cam"]
+    role = "Full Stack Developer"
 
-    interests  = ["IoT Systems", "Browser-Native Apps", "Creative Tools", "Web Dev"]
-    currently  = "Building cool things that work in the browser 🔥"
+    currently_building = [
+        "🌱 FieldSense - Smart Agriculture Platform",
+        "🌐 OmniRoute - AI Navigation Platform",
+        "⚡ Brack - Personal GitHub + AI Coding Assistant",
+        "💰 Finance Project - Expense & Budget Manager"
+    ]
 
-    def motto(self):
-        return "Ship it. Improve it. Repeat. 🚀"
+    learning = [
+        "React",
+        "Node.js",
+        "AI Agents",
+        "IoT + Web Integration"
+    ]
+
+    motto = "Ship it. Improve it. Repeat. 🚀"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I'm Building
 
-<div align="center">
-
-### 💻 Languages & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔌 Domains
-![IoT](https://img.shields.io/badge/IoT-Smart_Systems-4ecdc4?style=for-the-badge&logoColor=white)
-![ASCII Art](https://img.shields.io/badge/ASCII_Art-Camera_Based-e8c547?style=for-the-badge&logoColor=black)
-![Finance](https://img.shields.io/badge/Finance-Web_Apps-28a745?style=for-the-badge&logoColor=white)
-
-### 🗄️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+| Project | Description |
+|---------|-------------|
+| 🌱 **FieldSense** | AI-powered smart farming platform built for hackathons with weather, crop, disease prediction, and dashboard UI. |
+| 🌍 **OmniRoute** | Intelligent route planning platform with AI suggestions, maps, weather insights, and travel assistant. |
+| ⚡ **Brack** | Personal GitHub alternative with AI code review, issue fixing, rewriting code, commits, and repositories. |
+| 💰 **Finance Project** | Personal finance tracker for expenses, income, savings, and analytics using browser storage. |
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-<div align="center">
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+
+</p>
+
+## ⚙️ Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
+
+</p>
+
+## 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase"/>
+
+</p>
+
+## 🎯 Interests
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Browser%20Apps-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative%20Tools-F59E0B?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💰 finance-project-</h3>
-      <p align="center">
-        <a href="https://github.com/joeflaming777-lgtm/finance-project-">
-          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </p>
-      <p>A web-based <strong>finance application</strong> built entirely in the browser — clean UI, practical functionality, no backend needed.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💡 IOT-project-</h3>
-      <p align="center">
-        <a href="https://github.com/joeflaming777-lgtm/IOT-project-">
-          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </p>
-      <p><strong>Smart Street Light System</strong> — an IoT project that blends hardware logic with a web interface for intelligent lighting control.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/IoT-4ecdc4?style=flat-square"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">🎥 ASCII-art-</h3>
-      <p align="center">
-        <a href="https://github.com/joeflaming777-lgtm/ASCII-art-">
-          <img src="https://img.shields.io/badge/View_Repo-4ecdc4?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </p>
-      <p align="center">Real-time <strong>ASCII art generator using your camera</strong> — converts live video into character art, all running natively in the browser. No installs, no servers.</p>
-      <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/WebRTC-Camera_API-e8c547?style=flat-square"/></p>
-    </td>
-  </tr>
+
+<tr>
+<td width="50%">
+
+## 🌱 FieldSense
+
+Modern smart agriculture platform created for hackathons.
+
+### Features
+
+- 🌦 Live weather insights
+- 🌾 Crop recommendation
+- 🦠 Disease detection UI
+- 📊 Analytics dashboard
+- 🤖 AI farming assistant
+
+**Tech**
+
+`HTML` `CSS` `JavaScript` `AI APIs`
+
+<a href="https://github.com/joeflaming777-lgtm/FieldSense">
+<img src="https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌍 OmniRoute
+
+AI-powered navigation platform.
+
+### Features
+
+- 🗺 Smart route planning
+- 🌦 Weather-aware travel
+- 📍 AI route suggestions
+- 🚘 Multi-destination planning
+- 🌐 Interactive dashboard
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/joeflaming777-lgtm/OmniRoute">
+<img src="https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ⚡ Brack
+
+Your own GitHub with AI.
+
+### Features
+
+- 📁 Personal repositories
+- 🤖 AI code rewriting
+- 🐞 Auto bug fixing
+- 💬 AI coding assistant
+- 🚀 Git-like push & pull workflow
+
+**Tech**
+
+`React` `Node.js` `AI Agents`
+
+<a href="https://github.com/joeflaming777-lgtm/Brack">
+<img src="https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💰 Finance Project
+
+A browser-native personal finance manager.
+
+### Features
+
+- 💸 Expense tracker
+- 💵 Income management
+- 📈 Savings analytics
+- 📊 Dashboard charts
+- 📅 Monthly budgeting
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/joeflaming777-lgtm/finance-project-">
+<img src="https://img.shields.io/badge/View%20Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
 </table>
+
+---
+
+# 🧠 Current Focus
+
+<div align="center">
+
+| 🌱 Learning | 🚀 Building |
+|-------------|-------------|
+| React Ecosystem | FieldSense AI Platform |
+| AI Agents | Brack Developer Platform |
+| Backend APIs | OmniRoute Navigation |
+| Firebase & Authentication | Finance Dashboard |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joeflaming777-lgtm&show_icons=true&hide_border=true&count_private=true&bg_color=0f1117&title_color=4ecdc4&icon_color=4ecdc4&text_color=e8e6e0&ring_color=4ecdc4" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeflaming777-lgtm&layout=compact&hide_border=true&bg_color=0f1117&title_color=4ecdc4&text_color=e8e6e0" height="175"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joeflaming777-lgtm&show_icons=true&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeflaming777-lgtm&layout=compact&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E5E7EB"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joeflaming777-lgtm&hide_border=true&background=0f1117&ring=4ecdc4&fire=e8c547&currStreakLabel=4ecdc4&sideLabels=e8e6e0&dates=6b6e7a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joeflaming777-lgtm&bg_color=0f1117&color=4ecdc4&line=4ecdc4&point=e8c547&area=true&area_color=4ecdc4&hide_border=true&radius=8)](https://github.com/joeflaming777-lgtm)
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joeflaming777-lgtm&bg_color=0F172A&color=14B8A6&line=14B8A6&point=F59E0B&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Achievements
 
 <div align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joe-flaming-563459405/?skipRedirect=true)
-    
-[![Email](https://img.shields.io/badge/EMAIL-joeflaming%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeflaming777@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joeflaming777-lgtm)
+<img src="https://github-profile-trophy.vercel.app/?username=joeflaming777-lgtm&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-<br/>
+</div>
 
-> *"Ship it. Improve it. Repeat."* 🔥
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joeflaming777-lgtm&theme=algolia&hide_border=true&background=0F172A&ring=14B8A6&fire=F59E0B"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joe-flaming-563459405/">
+<img src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:joeflaming777@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/joeflaming777-lgtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💚 Quote I Build By
+
+<div align="center">
+
+## *"Ship it. Improve it. Repeat."* 🚀
+
+*"Every project starts simple. Every version gets better."*
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ecdc4,100:0f1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:020617&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff"/>
+
 </div>
