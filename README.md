@@ -333,24 +333,53 @@ A browser-native personal finance manager.
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joeflaming777-lgtm&show_icons=true&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeflaming777-lgtm&layout=compact&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E5E7EB"/>
+
+<!-- GitHub Stats -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=joeflaming777-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&cache_seconds=86400"
+/>
+
+<!-- Top Languages -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeflaming777-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E5E7EB&cache_seconds=86400"
+/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joeflaming777-lgtm&bg_color=0F172A&color=14B8A6&line=14B8A6&point=F59E0B&area=true&hide_border=true"/>
+<!-- Coding Activity -->
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=joeflaming777-lgtm&bg_color=0F172A&color=14B8A6&line=14B8A6&point=F59E0B&area=true&hide_border=true&custom_title=Joe%20Flaming%20Coding%20Activity"
+/>
+
 </div>
+
+---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=joeflaming777-lgtm&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+<img
+  width="95%"
+  src="https://github-profile-trophy.vercel.app/?username=joeflaming777-lgtm&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"
+/>
+
 </div>
 
-## 📊 Coding Activity
+---
+
+## 🔥 Coding Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=joeflaming777-lgtm&hide_border=true&background=0F172A&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=E5E7EB&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=joeflaming777-lgtm&theme=dark&hide_border=true&background=0F172A&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=E5E7EB&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+/>
+
 </div>
 
 ## 🌐 Connect With Me
