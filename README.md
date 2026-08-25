@@ -99,10 +99,14 @@ class JoeFlaming:
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
 </p>
 
-### 🧰 Tools
+## 🧰 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=github,npm,postman,docker,firebase,vercel"/>
+
+<img src="https://img.shields.io/badge/Antigravity-Developer%20Tool-14B8A6?style=for-the-badge"/>
+
 </p>
 
 ### 🎯 Interests
