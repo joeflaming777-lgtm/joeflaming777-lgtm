@@ -38,8 +38,6 @@ class JoeFlaming:
         "🏏 E-Commerce Website - 3D Cricket Store",
         "🍔 Food Ordering App - Flask + SQLite",
         "💰 Finance Project - Expense & Budget Manager",
-        "🛒 Customer Service Chatbot - E-Commerce Support Bot",
-        "🌿 EcoGuard AI - Campus Cleanliness Monitoring",
         "📧 Spam Email Classifier - ML Spam Detection",
         "🎤 Speech-to-Text Tool - Voice Transcription"
     ]
@@ -75,8 +73,6 @@ class JoeFlaming:
 | 🏏 E-Commerce Website | Interactive cricket e-commerce platform with 3D product visualization, cart, wishlist, comparison, and customization. |
 | 🍔 Food Ordering App | Full food ordering and delivery system built with Flask, SQLite, OOP, payments, and order tracking. |
 | 💰 Finance Project | Browser-based personal finance application for expenses, income, savings, and budgeting. |
-| 🛒 Customer Service Chatbot | Rule-based / NLP-based e-commerce support chatbot with a dark neon UI. |
-| 🌿 EcoGuard AI | Ethical campus cleanliness monitoring system with a gamified Eco Score. |
 | 📧 Spam Email Classifier | ML-based spam detector trained on the SMS Spam Collection dataset. |
 | 🎤 Speech-to-Text Tool | Real-time voice transcription tool. |
 
@@ -101,7 +97,6 @@ class JoeFlaming:
 <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8-14B8A6?style=for-the-badge"/>
 </p>
 
 ### 🧰 Tools
@@ -259,42 +254,6 @@ Complete food ordering and delivery system.
 <tr>
 <td width="50%">
 
-### 🛒 Customer Service Chatbot
-Rule-based / NLP e-commerce support chatbot with a dark, neon-accented UI.
-
-**Features**
-- 💬 Automated customer support
-- 🧠 Rule-based / NLP response engine
-- 🎨 Dark UI with neon cyan & hot pink accents
-- 🛍️ E-commerce domain focus
-
-**Tech**: Python · NLP
-
-<a href="https://github.com/joeflaming777-lgtm">
-<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td width="50%">
-
-### 🌿 EcoGuard AI
-Ethical campus cleanliness monitoring system with a gamified Eco Score.
-
-**Features**
-- 📷 Real-time cleanliness detection
-- 🧍 Face recognition
-- 🏆 Gamified Eco Score system
-- 🎯 Ethical, campus-focused design
-
-**Tech**: Python · YOLOv8 · Face Recognition
-
-<a href="https://github.com/joeflaming777-lgtm">
-<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 📧 Spam Email Classifier
 ML-based spam detector trained on the SMS Spam Collection dataset.
 
@@ -364,8 +323,7 @@ A browser-native personal finance manager.
 | Machine Learning | Stock Prediction System |
 | Three.js | Interactive E-Commerce |
 | Backend APIs | Food Ordering System |
-| Computer Vision (YOLOv8) | EcoGuard AI |
-| NLP | Customer Service Chatbot |
+| NLP | Spam Email Classifier |
 
 </div>
 
