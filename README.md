@@ -105,10 +105,9 @@ class JoeFlaming:
 
 <img src="https://skillicons.dev/icons?i=github,npm,postman,docker,firebase,vercel"/>
 
-<img src="https://img.shields.io/badge/Antigravity-Developer%20Tool-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-Developer%20Tool-14B8A6?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
-
 ### 🎯 Interests
 
 <p align="center">
