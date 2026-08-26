@@ -37,7 +37,9 @@ class JoeFlaming:
         "📈 Stock Price Predictor - ML + AI Trading Assistant",
         "🏏 E-Commerce Website - 3D Cricket Store",
         "🍔 Food Ordering App - Flask + SQLite",
-        "💰 Finance Project - Expense & Budget Manager"
+        "💰 Finance Project - Expense & Budget Manager",
+        "📧 Spam Email Classifier - ML Spam Detection",
+        "🎤 Speech-to-Text Tool - Voice Transcription"
     ]
 
     learning = [
@@ -58,367 +60,351 @@ class JoeFlaming:
     ]
 
     motto = "Ship it. Improve it. Repeat. 🚀"
+```
 
-What I'm Building
+## What I'm Building
 
-ProjectDescription
+| Project | Description |
+|---|---|
+| 🌱 FieldSense | AI-powered smart farming platform built for hackathons with agricultural insights, dashboards, and AI features. |
+| ⚡ Brack | Personal GitHub alternative with AI code rewriting, bug fixing, repositories, and developer tools. |
+| 🎙️ Friday AI Agent | Real-time AI voice assistant with Gemini, LiveKit, speech recognition, and voice synthesis. |
+| 📈 Stock Price Predictor | Machine-learning stock forecasting dashboard with technical analysis and an AI trading assistant. |
+| 🏏 E-Commerce Website | Interactive cricket e-commerce platform with 3D product visualization, cart, wishlist, comparison, and customization. |
+| 🍔 Food Ordering App | Full food ordering and delivery system built with Flask, SQLite, OOP, payments, and order tracking. |
+| 💰 Finance Project | Browser-based personal finance application for expenses, income, savings, and budgeting. |
+| 📧 Spam Email Classifier | ML-based spam detector trained on the SMS Spam Collection dataset. |
+| 🎤 Speech-to-Text Tool | Real-time voice transcription tool. |
 
-🌱 FieldSense
+## 🛠 Tech Stack
 
-AI-powered smart farming platform built for hackathons with agricultural insights, dashboards, and AI features.
+### 💻 Languages
 
-⚡ Brack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+</p>
 
-Personal GitHub alternative with AI code rewriting, bug fixing, repositories, and developer tools.
+### ⚙️ Frameworks & Libraries
 
-🎙️ Friday AI Agent
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask"/>
+</p>
 
-Real-time AI voice assistant with Gemini, LiveKit, speech recognition, and voice synthesis.
+### 🤖 AI & Machine Learning
 
-📈 Stock Price Predictor
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+</p>
 
-Machine-learning stock forecasting dashboard with technical analysis and an AI trading assistant.
+## 🧰 Tools
 
-🏏 E-Commerce Website
+<p align="center">
 
-Interactive cricket e-commerce platform with 3D product visualization, cart, wishlist, comparison, and customization.
+<img src="https://skillicons.dev/icons?i=github,npm,postman,docker,firebase,vercel"/>
 
-🍔 Food Ordering App
+<img src="https://img.shields.io/badge/Antigravity-Developer%20Tool-14B8A6?style=for-the-badge&logo=google&logoColor=white"/>
 
-Full food ordering and delivery system built with Flask, SQLite, OOP, payments, and order tracking.
+</p>
+### 🎯 Interests
 
-💰 Finance Project
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Browser%20Apps-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-8B5CF6?style=for-the-badge"/>
+</p>
 
-Browser-based personal finance application for expenses, income, savings, and budgeting.
+## 🌟 Featured Projects
 
-🛠 Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-💻 Languages
-
- <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python"/> </p> 
-
-⚙️ Frameworks & Libraries
-
- <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask"/> </p> 
-
-🤖 AI & Machine Learning
-
- <p align="center"> <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/> </p> 
-
-🧰 Tools
-
- <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase"/> </p> 
-
-🎯 Interests
-
- <p align="center"> <img src="https://img.shields.io/badge/AI%20Agents-14B8A6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Browser%20Apps-22C55E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hackathons-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Developer%20Tools-8B5CF6?style=for-the-badge"/> </p> 
-
-🌟 Featured Projects
-
- <table> <tr> <td width="50%"> 
-
-🌱 FieldSense
-
+### 🌱 FieldSense
 Modern smart agriculture platform created for hackathons.
 
-Features
+**Features**
+- 🌦 Live weather insights
+- 🌾 Smart farming tools
+- 🦠 Crop and disease insights
+- 📊 Analytics dashboard
+- 🤖 AI farming assistant
+- 🌱 Nature-focused experience
 
- 🌦 Live weather insights 
+**Tech**: HTML · CSS · JavaScript · AI
 
- 🌾 Smart farming tools 
+<a href="https://github.com/joeflaming777-lgtm/FieldSense">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
 
- 🦠 Crop and disease insights 
-
- 📊 Analytics dashboard 
-
- 🤖 AI farming assistant 
-
- 🌱 Nature-focused experience 
-
-
-
-Tech
-
-
-
-HTML CSS JavaScript AI
-
-
-
- <a href="https://github.com/joeflaming777-lgtm/FieldSense"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%"> 
-
-⚡ Brack
-
+### ⚡ Brack
 Your own GitHub with AI.
 
-Features
+**Features**
+- 📁 Personal repositories
+- 🤖 AI code rewriting
+- 🐞 Automatic bug fixing
+- 💬 AI coding assistant
+- 🔧 Code improvement
+- 🚀 Git-style development workflow
 
- 📁 Personal repositories 
+**Tech**: React · Node.js · AI Agents
 
- 🤖 AI code rewriting 
+<a href="https://github.com/joeflaming777-lgtm/Brack">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
- 🐞 Automatic bug fixing 
-
- 💬 AI coding assistant 
-
- 🔧 Code improvement 
-
- 🚀 Git-style development workflow 
-
-
-
-Tech
-
-
-
-React Node.js AI Agents
-
-
-
- <a href="https://github.com/joeflaming777-lgtm/Brack"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%"> 
-
-🎙️ Friday AI Agent
-
+### 🎙️ Friday AI Agent
 A real-time AI voice assistant that runs in the terminal.
 
-Features
+**Features**
+- 🎤 Real-time voice interaction
+- 🧠 Google Gemini
+- 🔊 Speech-to-text
+- 🗣️ Text-to-speech
+- 💬 Conversation memory
+- ⚡ Streaming responses
+- ✋ Speech interruption
+- ⌨️ Typing fallback
+- 🎨 Rich terminal UI
 
- 🎤 Real-time voice interaction 
+**Tech**: Python · Gemini · LiveKit · Deepgram · Cartesia
 
- 🧠 Google Gemini 
+<a href="https://github.com/joeflaming777-lgtm/friday-AI-agent-">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
 
- 🔊 Speech-to-text 
-
- 🗣️ Text-to-speech 
-
- 💬 Conversation memory 
-
- ⚡ Streaming responses 
-
- ✋ Speech interruption 
-
- ⌨️ Typing fallback 
-
- 🎨 Rich terminal UI 
-
-
-
-Tech
-
-
-
-Python Gemini LiveKit Deepgram Cartesia
-
-
-
- <a href="https://github.com/joeflaming777-lgtm/friday-AI-agent-"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%"> 
-
-📈 Stock Price Predictor
-
+### 📈 Stock Price Predictor
 ML-powered stock forecasting and AI trading assistant.
 
-Features
+**Features**
+- 📊 Stock price forecasting
+- 🤖 AI trading assistant
+- 📉 RSI and MACD analysis
+- 📈 Moving averages
+- 🧠 Linear Regression
+- 🌲 Random Forest
+- 📊 Interactive Plotly charts
+- 💬 Technical market analysis
 
- 📊 Stock price forecasting 
+**Tech**: Python · Flask · Scikit-Learn · Plotly · yfinance
 
- 🤖 AI trading assistant 
+<a href="https://github.com/joeflaming777-lgtm/stock-price-predicator">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
- 📉 RSI and MACD analysis 
-
- 📈 Moving averages 
-
- 🧠 Linear Regression 
-
- 🌲 Random Forest 
-
- 📊 Interactive Plotly charts 
-
- 💬 Technical market analysis 
-
-
-
-Tech
-
-
-
-Python Flask Scikit-Learn Plotly yfinance
-
-
-
- <a href="https://github.com/joeflaming777-lgtm/stock-price-predicator"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%"> 
-
-🏏 E-Commerce Website
-
+### 🏏 E-Commerce Website
 Interactive cricket e-commerce platform with 3D product visualization.
 
-Features
+**Features**
+- 🏏 Cricket product store
+- 🎨 3D product viewer
+- 🛒 Shopping cart
+- ❤️ Wishlist
+- ⚖️ Product comparison
+- 🪄 Bat customizer
+- 💬 Support chat
+- 🔐 Authentication pages
+- 📱 Responsive design
+- ✨ Smooth animations
 
- 🏏 Cricket product store 
+**Tech**: React · Vite · Three.js · Tailwind CSS · Zustand
 
- 🎨 3D product viewer 
+<a href="https://github.com/joeflaming777-lgtm/e-commerce-Website">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
 
- 🛒 Shopping cart 
-
- ❤️ Wishlist 
-
- ⚖️ Product comparison 
-
- 🪄 Bat customizer 
-
- 💬 Support chat 
-
- 🔐 Authentication pages 
-
- 📱 Responsive design 
-
- ✨ Smooth animations 
-
-
-
-Tech
-
-
-
-React Vite Three.js Tailwind CSS Zustand
-
-
-
- <a href="https://github.com/joeflaming777-lgtm/e-commerce-Website"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%"> 
-
-🍔 Food Ordering App
-
+### 🍔 Food Ordering App
 Complete food ordering and delivery system.
 
-Features
+**Features**
+- 🍕 Food menu
+- 🛒 Cart management
+- 💳 Simulated payments
+- 🏷️ Promo codes
+- 📦 Order placement
+- 🚚 Delivery tracking
+- 📜 Order history
+- 🗄️ SQLite database
+- 🧱 OOP architecture
+- ⚠️ Exception handling
 
- 🍕 Food menu 
+**Tech**: Python · Flask · SQLite · HTML · CSS · JavaScript
 
- 🛒 Cart management 
+<a href="https://github.com/joeflaming777-lgtm/food-ordering-app">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
- 💳 Simulated payments 
+### 📧 Spam Email Classifier
+ML-based spam detector trained on the SMS Spam Collection dataset.
 
- 🏷️ Promo codes 
+**Features**
+- ✉️ Spam vs. ham classification
+- 🔤 TF-IDF feature extraction
+- 🧠 Naive Bayes, Logistic Regression, and SVM models
+- 📊 Model comparison
 
- 📦 Order placement 
+**Tech**: Python · Scikit-Learn · TF-IDF
 
- 🚚 Delivery tracking 
+<a href="https://github.com/joeflaming777-lgtm">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
 
- 📜 Order history 
+### 🎤 Speech-to-Text Tool
+Real-time voice transcription tool.
 
- 🗄️ SQLite database 
+**Features**
+- 🎙️ Live audio capture
+- 📝 Speech-to-text transcription
+- 🌐 Google Web Speech API integration
 
- 🧱 OOP architecture 
+**Tech**: Python · SpeechRecognition · PyAudio
 
- ⚠️ Exception handling 
+<a href="https://github.com/joeflaming777-lgtm">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-
-
-Tech
-
-
-
-Python Flask SQLite HTML CSS JavaScript
-
-
-
- <a href="https://github.com/joeflaming777-lgtm/food-ordering-app"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td colspan="2"> 
-
-💰 Finance Project
-
+### 💰 Finance Project
 A browser-native personal finance manager.
 
-Features
+**Features**
+- 💸 Expense tracking
+- 💵 Income management
+- 📈 Savings analytics
+- 📊 Dashboard
+- 📅 Monthly budgeting
+- 💰 Financial tracking
 
- 💸 Expense tracking 
+**Tech**: HTML · CSS · JavaScript
 
- 💵 Income management 
+<div align="center">
+<a href="https://github.com/joeflaming777-lgtm/finance-project-">
+<img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
 
- 📈 Savings analytics 
+## 🧠 Current Focus
 
- 📊 Dashboard 
+<div align="center">
 
- 📅 Monthly budgeting 
+| 🌱 Learning | 🚀 Building |
+|---|---|
+| React Ecosystem | FieldSense AI Platform |
+| AI Agents | Brack Developer Platform |
+| Python & Flask | Friday AI Assistant |
+| Machine Learning | Stock Prediction System |
+| Three.js | Interactive E-Commerce |
+| Backend APIs | Food Ordering System |
+| NLP | Spam Email Classifier |
 
- 💰 Financial tracking 
+</div>
 
+## 📈 GitHub Stats
 
+<div align="center">
 
-Tech
+<!-- GitHub Stats -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=joeflaming777-lgtm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&cache_seconds=86400"
+/>
 
-
-
-HTML CSS JavaScript
-
-
-
- <div align="center"> <a href="https://github.com/joeflaming777-lgtm/finance-project-"> <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> </tr> </table> 
-
-🧠 Current Focus
-
- <div align="center"> 
-
-🌱 Learning🚀 Building
-
-React Ecosystem
-
-FieldSense AI Platform
-
-AI Agents
-
-Brack Developer Platform
-
-Python & Flask
-
-Friday AI Assistant
-
-Machine Learning
-
-Stock Prediction System
-
-Three.js
-
-Interactive E-Commerce
-
-Backend APIs
-
-Food Ordering System
-
- </div> 
-
-📈 GitHub Stats
-
- <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=joeflaming777-lgtm&show_icons=true&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeflaming777-lgtm&layout=compact&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E5E7EB"/> 
-
-
+<!-- Top Languages -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeflaming777-lgtm&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E5E7EB&cache_seconds=86400"
+/>
 
 <br/><br/>
 
+<!-- Coding Activity -->
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=joeflaming777-lgtm&bg_color=0F172A&color=14B8A6&line=14B8A6&point=F59E0B&area=true&hide_border=true&custom_title=Joe%20Flaming%20Coding%20Activity"
+/>
 
+</div>
 
- <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joeflaming777-lgtm&bg_color=0F172A&color=14B8A6&line=14B8A6&point=F59E0B&area=true&hide_border=true"/> </div> 
+---
 
-🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=joeflaming777-lgtm&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/> </div> 
+<div align="center">
 
-📊 Coding Activity
+<img
+  width="95%"
+  src="https://github-profile-trophy.vercel.app/?username=joeflaming777-lgtm&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"
+/>
 
- <div align="center"> <img src="https://streak-stats.demolab.com?user=joeflaming777-lgtm&hide_border=true&background=0F172A&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=E5E7EB&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/> </div> 
+</div>
 
-🌐 Connect With Me
+---
 
- <div align="center"> <a href="https://www.linkedin.com/in/joe-flaming-563459405/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:joeflaming777@gmail.com"> <img src="https://img.shields.io/badge/Gmail-joeflaming777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/joeflaming777-lgtm"> <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> 
+## 🔥 Coding Activity
 
-💚 Quote I Build By
+<div align="center">
 
- <div align="center"> 
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=joeflaming777-lgtm&theme=dark&hide_border=true&background=0F172A&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=E5E7EB&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/joe-flaming-563459405/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:joeflaming777@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-joeflaming777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/joeflaming777-lgtm">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+## 💚 Quote I Build By
+
+<div align="center">
 
 "Ship it. Improve it. Repeat." 🚀
-
 "Every project starts simple. Every version gets better."
 
+</div>
 
-
- </div> 
-
- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:020617&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/> </div> ```  
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:020617&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+</div>
