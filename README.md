@@ -213,6 +213,9 @@ I'm always interested in learning from other builders and exploring good ideas.
 <a href="mailto:joeflaming777@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20hello-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joe" />
 </a>
+<a href="https://x.com/JoeFlaming63610">
+  <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="Follow Joe Flaming on X" />
+</a>
 <a href="https://github.com/joeflaming777-lgtm">
   <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
