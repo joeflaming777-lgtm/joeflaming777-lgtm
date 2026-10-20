@@ -292,6 +292,25 @@ Real-time voice transcription tool.
 <tr>
 <td colspan="2">
 
+### ⚒️ CrewForge
+
+**Hackathon Team Formation & Candidate Matching**
+
+A platform for students to find teammates or build hackathon teams, with skill assessments, GitHub profile analysis, explainable candidate matching, and team invitations.
+
+`React` `TypeScript` `Node.js` `Express` `Prisma` `SQLite`
+
+<div align="left">
+
+<a href="https://crewforge-00vh.onrender.com/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20CREWFORGE-111111?style=for-the-badge&logo=render&logoColor=white" alt="Open CrewForge live deployment"/>
+</a>
+<a href="https://github.com/joeflaming777-lgtm/Crew-forge">
+  <img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="CrewForge source code"/>
+</a>
+
+</div>
+
 ### 💰 Finance Project
 A browser-native personal finance manager.
 
