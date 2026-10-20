@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:000000&height=210&section=header&text=JOE%20FLAMING&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%E2%80%A2%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=14&animation=fadeIn" alt="Joe Flaming monochrome banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:000000&height=210&section=header&text=JOE%20FLAMING&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20AND%20DATA%20SCIENCE%20%E2%80%A2%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=14&animation=fadeIn" alt="Joe Flaming monochrome banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=Ideas+into+software.;AI%2C+data%2C+and+useful+digital+products.;Learn.+Build.+Refine." alt="Animated introduction" />
 
