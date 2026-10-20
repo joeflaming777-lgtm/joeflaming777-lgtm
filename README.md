@@ -29,15 +29,15 @@ I'm **Joe Flaming**, an AI & Data Science student building AI-powered tools, mod
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/joeflaming777-lgtm?tab=repositories"><img src="assets/projects/fieldsense.svg" width="100%" alt="FieldSense project preview"/></a>
+<a href="https://github.com/joeflaming777-lgtm/students-performance-analysis-"><img src="assets/projects/student-performance.svg" width="100%" alt="Student Performance Analysis project preview"/></a>
 
-### FieldSense
+### Student Performance Analysis
 
-Smart agriculture platform with AI insights, weather data, and crop analysis.
+AI-powered student mark predictor that estimates final exam scores from previous marks, attendance, and daily study hours, with study tips and a REST API.
 
-`AI` `Web` `Agritech`
+`Python` `Flask` `Scikit-learn` `Machine Learning`
 
-[⌘ Browse repositories](https://github.com/joeflaming777-lgtm?tab=repositories)
+[⌘ View code](https://github.com/joeflaming777-lgtm/students-performance-analysis-)
 
 </td>
 <td width="50%" valign="top">
