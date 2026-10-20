@@ -1,229 +1,162 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:000000&height=210&section=header&text=JOE%20FLAMING&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20AND%20DATA%20SCIENCE%20%E2%80%A2%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=14&animation=fadeIn" alt="Joe Flaming monochrome banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,45:17191C,100:050607&height=230&section=header&text=JOE%20FLAMING&fontSize=58&fontColor=F5F5F5&fontAlignY=40&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20BUILDER&descAlignY=62&descSize=14&animation=fadeIn" alt="Joe Flaming monochrome banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=Ideas+into+software.;AI%2C+data%2C+and+useful+digital+products.;Learn.+Build.+Refine." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=900&color=B8B8B8&center=true&vCenter=true&width=650&lines=Ideas+into+software.;AI-powered+tools+and+modern+web+apps.;Learn.+Build.+Refine." alt="Animated introduction" />
 
 <br/>
 
-<a href="https://github.com/joeflaming777-lgtm">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/joe-flaming-563459405/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:joeflaming777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://github.com/joeflaming777-lgtm"><img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/joe-flaming-563459405/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/JoeFlaming63610"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X profile"/></a>
+<a href="mailto:joeflaming777@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-## 01 / About
+## ABOUT
 
-I'm **Joe Flaming**, an AI & Data Science student who enjoys building software that solves practical problems.
+I'm **Joe Flaming**, an AI & Data Science student building AI-powered tools, modern web applications, and practical digital products. I enjoy turning ideas into working software, exploring new technologies, and refining the details that make a product useful.
 
-I explore the space between AI, machine learning, and full-stack development. I learn by building, testing ideas, and improving projects one iteration at a time.
-
-```python
-class JoeFlaming:
-    role = "AI & Data Science Student"
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full-Stack Development",
-        "Developer Tools",
-    ]
-    motto = "Learn. Build. Refine."
-```
+`AI & Data Science` · `Full-Stack Development` · `Machine Learning` · `Product Building`
 
 ---
 
-## 02 / Selected work
-
-A selection of projects exploring AI, developer tools, machine learning, and useful applications.
+## FEATURED PROJECTS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="25%" valign="top">
 
-### 01. FieldSense
+<a href="https://github.com/joeflaming777-lgtm/FieldSense"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/FieldSense" width="100%" alt="FieldSense repository preview"/></a>
 
-**Smart Agriculture Platform**
+### FieldSense
+Smart agriculture platform with AI insights, weather data, and crop analysis.
 
-An agriculture-focused platform exploring how AI and digital tools can support farming through insights, dashboards, and practical features.
+`AI` `Web` `Agritech`
 
-`AI` `Web Development` `Data`
-
-<a href="https://github.com/joeflaming777-lgtm/FieldSense">↗ View repository</a>
-
-</td>
-    <td width="50%" valign="top">
-
-### 02. Brack
-
-**A GitHub Alternative with AI**
-
-A developer platform concept combining personal repositories with AI-assisted code rewriting, bug fixing, and coding tools.
-
-`React` `Node.js` `AI Agents`
-
-<a href="https://github.com/joeflaming777-lgtm/Brack">↗ View repository</a>
+[⌘ Code](https://github.com/joeflaming777-lgtm/FieldSense)
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 03. Friday AI Agent
+<a href="https://github.com/joeflaming777-lgtm/Brack"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/Brack" width="100%" alt="Brack repository preview"/></a>
 
-**Real-Time Voice Assistant**
+### Brack
+Personal GitHub alternative with AI code rewriting, bug fixing, and developer tools.
 
-A terminal-based assistant built around real-time voice interaction, conversational AI, speech recognition, and voice synthesis.
+`AI` `Developer Tools` `Web`
 
-`Python` `Gemini` `LiveKit`
-
-<a href="https://github.com/joeflaming777-lgtm/friday-AI-agent-">↗ View repository</a>
+[⌘ Code](https://github.com/joeflaming777-lgtm/Brack)
 
 </td>
-    <td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 04. Stock Price Predictor
+<a href="https://github.com/joeflaming777-lgtm/friday-AI-agent-"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/friday-AI-agent-" width="100%" alt="Friday AI Agent repository preview"/></a>
 
-**Forecasting & Market Analysis**
+### Friday AI Agent
+Real-time AI voice assistant with speech interaction and conversational AI.
 
-A machine-learning dashboard for stock forecasting, technical indicators, interactive charts, and AI-assisted market analysis.
+`Python` `AI` `Voice`
 
-`Python` `Flask` `Scikit-learn` `Plotly`
-
-<a href="https://github.com/joeflaming777-lgtm/stock-price-predicator">↗ View repository</a>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 05. E-Commerce Website
-
-**Interactive Cricket Store**
-
-A cricket e-commerce experience featuring 3D product visualization, shopping tools, product comparison, and responsive interactions.
-
-`React` `Three.js` `Tailwind CSS`
-
-<a href="https://github.com/joeflaming777-lgtm/e-commerce-Website">↗ View repository</a>
+[⌘ Code](https://github.com/joeflaming777-lgtm/friday-AI-agent-)
 
 </td>
-    <td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 06. Food Ordering App
+<a href="https://github.com/joeflaming777-lgtm/stock-price-predicator"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/stock-price-predicator" width="100%" alt="Stock Price Predictor repository preview"/></a>
 
-**Food Ordering & Delivery**
+### Stock Price Predictor
+Machine-learning dashboard for stock forecasting and technical analysis.
 
-A food ordering application with menu browsing, cart management, order placement, simulated payments, delivery tracking, and persistent storage.
+`ML` `Data Analysis` `Finance`
 
-`Python` `Flask` `SQLite`
-
-<a href="https://github.com/joeflaming777-lgtm/food-ordering-app">↗ View repository</a>
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-### 07. CrewForge
-
-**Hackathon Team Formation & Candidate Matching**
-
-A platform that helps students find teammates or build hackathon teams using skill assessments, GitHub profile analysis, explainable candidate matching, and team invitations.
-
-`React` `TypeScript` `Node.js` `Express` `Prisma` `SQLite`
-
-<div align="left">
-
-<a href="https://crewforge-00vh.onrender.com/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN%20CREWFORGE-111111?style=for-the-badge&logo=render&logoColor=white" alt="Open CrewForge live deployment" />
-</a>
-<a href="https://github.com/joeflaming777-lgtm/Crew-forge">
-  <img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="CrewForge source code" />
-</a>
-
-</div>
+[⌘ Code](https://github.com/joeflaming777-lgtm/stock-price-predicator)
 
 </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+</tr>
+<tr>
+<td width="25%" valign="top">
 
-### 08. Finance Project
+<a href="https://github.com/joeflaming777-lgtm/e-commerce-Website"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/e-commerce-Website" width="100%" alt="E-Commerce Website repository preview"/></a>
 
-**Personal Finance Manager**
+### E-Commerce Website
+Cricket shopping platform with 3D product viewing, cart, wishlist, and customization.
 
-A browser-based finance application focused on expense tracking, income management, savings insights, and monthly budgeting.
+`Web` `E-Commerce` `3D`
 
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/joeflaming777-lgtm/finance-project-">↗ View repository</a>
+[⌘ Code](https://github.com/joeflaming777-lgtm/e-commerce-Website)
 
 </td>
-  </tr>
+<td width="25%" valign="top">
+
+<a href="https://github.com/joeflaming777-lgtm/food-ordering-app"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/food-ordering-app" width="100%" alt="Food Ordering App repository preview"/></a>
+
+### Food Ordering App
+Food ordering system with Flask, SQLite, payments, and order tracking.
+
+`Python` `Flask` `Web`
+
+[⌘ Code](https://github.com/joeflaming777-lgtm/food-ordering-app)
+
+</td>
+<td width="25%" valign="top">
+
+<a href="https://github.com/joeflaming777-lgtm/finance-project-"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/finance-project-" width="100%" alt="Finance Project repository preview"/></a>
+
+### Finance Project
+Personal finance app for expenses, income, savings, and budget management.
+
+`Python` `Data` `Web`
+
+[⌘ Code](https://github.com/joeflaming777-lgtm/finance-project-)
+
+</td>
+<td width="25%" valign="top">
+
+<a href="https://crewforge-00vh.onrender.com/"><img src="https://opengraph.githubassets.com/1/joeflaming777-lgtm/Crew-forge" width="100%" alt="CrewForge repository preview"/></a>
+
+### CrewForge
+Hackathon team formation platform with skill assessments, GitHub analysis, and candidate matching.
+
+`React` `Node.js` `Web`
+
+[⌘ Code](https://github.com/joeflaming777-lgtm/Crew-forge) · [Live Demo](https://crewforge-00vh.onrender.com/)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 03 / Tools I work with
+## TECH STACK
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="Python, Java, C, HTML, CSS and JavaScript" />
-
-**Frameworks & libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" alt="React, Node.js, Express and Flask" />
-
-**AI, data & developer tools**
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,vscode,docker,postman&theme=dark" alt="PyTorch, OpenCV, Git, GitHub, VS Code, Docker and Postman" />
+| Languages | Web & Backend | AI & Data | Tools |
+|:---:|:---:|:---:|:---:|
+| Python · Java · C · JavaScript | React · Node.js · Express · Flask | PyTorch · OpenCV · Scikit-learn | Git · GitHub · VS Code · Docker |
 
 </div>
 
 ---
 
-## 04 / Current direction
+## LET'S CONNECT
 
-- Exploring AI agents and machine learning.
-- Building web applications with practical use cases.
-- Improving my understanding of backend systems and APIs.
-- Experimenting with interfaces that are clear, useful, and enjoyable to use.
-
----
-
-## 05 / Connect
-
-I'm always interested in learning from other builders and exploring good ideas.
+Always open to interesting ideas, collaborations, and opportunities to build.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joe-flaming-563459405/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:joeflaming777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Joe" />
-</a>
-<a href="https://x.com/JoeFlaming63610">
-  <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="Follow Joe Flaming on X" />
-</a>
-<a href="https://github.com/joeflaming777-lgtm">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>
+<a href="https://github.com/joeflaming777-lgtm"><img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/joe-flaming-563459405/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/JoeFlaming63610"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:joeflaming777@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
 *Learn. Build. Refine.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:000000&height=100&section=footer" alt="Monochrome footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,45:17191C,100:050607&height=100&section=footer" alt="Monochrome footer"/>
 
 </div>
